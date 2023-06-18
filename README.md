@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Darshak Kakani</h1>
 <h3 align="center">A passionate frontend developer from India</h3>
 
-- 🔭 I’m currently working on **OTT Based Platform**
+- 🔭 I’m currently searching for **Internships | Jobs**
 
 - 👯 I’m looking to collaborate on **AI/ML Project**
 
