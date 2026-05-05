@@ -15,7 +15,7 @@ name       : Darshak Kakani
 location   : India 🇮🇳
 education  : B.Tech @ GCET, Batch of 2024
 role       : MERN Stack Developer & AI/ML Enthusiast
-seeking    : Internships | Full-time Roles
+seeking    : Full-time Roles
 collaborate: AI/ML Projects | Open Source
 contact    : darshp554@gmail.com
 fun_fact   : "I think I am funny 😄 ... and my code agrees"
@@ -105,7 +105,7 @@ fun_fact   : "I think I am funny 😄 ... and my code agrees"
 
 <br/>
 
-[![Buy Me A Coffee](https://cdn.buymeacoffee.com/buttons/v2/default-yellow.png)](https://www.buymeacoffee.com/darshp554H)
+<a href="https://www.buymeacoffee.com/darshp554H"><img src="https://cdn.buymeacoffee.com/buttons/v2/default-yellow.png" height="45" width="180" alt="Buy Me A Coffee" /></a>
 
 <br/>
 
